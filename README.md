@@ -15,7 +15,7 @@
 💡 **Data Analyst** with end-to-end experience in data analysis, visualization, and reporting  
 📊 Skilled in Power BI, Tableau, Excel, SQL, Python, and R  
 📈 Strong foundation in **time series analysis, statistical modeling, and ML pipelines**  
-🚀 Actively seeking opportunities to apply my skills in real-world, dynamic settings
+🚀 Actively seeking opportunities to apply my skills in real-world, dynamic settings, with a passion for turning raw data into actionable insights  
 
 ---
 
@@ -23,13 +23,13 @@
 
 | Category              | Tools / Technologies |
 |-----------------------|----------------------|
-| 🧑‍💻 Programming       | Python, R, SQL, HTML, CSS |
-| 📊 Visualization       | Tableau, Power BI, Excel |
-| 🧮 Statistics & ML     | Regression, Time Series, Hypothesis Testing |
-| 🧠 ML Libraries        | scikit-learn, Pandas, NumPy, NLTK |
-| 🌐 Web Frameworks      | Flask (for deployed analytics tools) |
-| 📑 Reporting Tools     | Microsoft Office, Canva |
-| 🗣️ Languages           | English, Hindi, Nepali (Fluent) |
+| 🧑‍💻 **Programming**       | Python, R, SQL, HTML, CSS |
+| 📊 **Visualization**       | Tableau, Power BI, Excel |
+| 🧮 **Statistics & ML**     | Regression, Time Series, Hypothesis Testing |
+| 🧠 **ML Libraries**        | scikit-learn, Pandas, NumPy, NLTK |
+| 🌐 **Web Frameworks**      | Flask (for deployed analytics tools) |
+| 📑 **Reporting Tools**     | Microsoft Office, Canva |
+| 🗣️ **Languages**           | English, Hindi, Nepali (Fluent) |
 
 ---
 
@@ -72,6 +72,24 @@
 
 ---
 
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SantoshP24&show_icons=true&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantoshP24&layout=compact&theme=radical&hide_border=true" height="180"/>
+</p>
+
+---
+
+### 🚀 Animated Data Visualization
+
+Below is a creative animation, showing the power of data visualization and AI. Here’s how data can be transformed into insights and used to make decisions:
+
+<p align="center">
+  <img src="https://media.giphy.com/media/8tH5Rre64jX6w8rVpl/giphy.gif" alt="Data Analysis Animation"/>
+</p>
+
+---
 
 ### 🔗 Connect with Me
 
@@ -80,4 +98,15 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SantoshPant&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+### 🎨 AI-Themed Visual Design (Optional)
+
+You can also include an AI-themed banner to visually represent your passion for AI. Here's an example:
+
+```html
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Artificial_intelligence_logo.svg/600px-Artificial_intelligence_logo.svg.png" width="300" alt="AI Logo"/>
 </p>
