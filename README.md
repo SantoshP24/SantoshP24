@@ -1,74 +1,91 @@
 <!-- GitHub Profile README - Santosh Pant -->
 
 <h1 align="center">👋 Hi, I'm Santosh Pant</h1>
-<h3 align="center">Strategic Data Scientist | Market Simulator Engineer | AI-Driven Decision Architect</h3>
+<h3 align="center">Data Analyst | B.Sc. in Data Science | Data-Driven Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FFAB&center=true&vCenter=true&width=700&lines=Engineering+Next-Gen+AI+Market+Simulators;Advanced+Analytics+%7C+ML+%7C+Time+Series+Modeling;Transforming+Raw+Data+into+Strategic+Insight" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FFAB&center=true&vCenter=true&width=750&lines=Turning+Data+into+Decisions;Building+Dashboards+%26+Forecasting+Models;Passionate+about+Analytics+%26+ML+Deployment" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 Executive Summary
-A data science strategist with a unique edge in **Generative Simulation**, **Conjoint Analytics**, and **Probabilistic Modeling**. My work sits at the intersection of **quantitative reasoning** and **strategic foresight**—building tools that simulate competitive dynamics, model consumer behavior, and unlock untapped opportunity.
+### 🔍 About Me
+
+🎓 **Recent Graduate** in B.Sc. Data Science & Analytics — Jain University  
+💡 **Data Analyst** with end-to-end experience in data analysis, visualization, and reporting  
+📊 Skilled in Power BI, Tableau, Excel, SQL, Python, and R  
+📈 Strong foundation in **time series analysis, statistical modeling, and ML pipelines**  
+🚀 Actively seeking opportunities to apply my skills in real-world, dynamic settings
 
 ---
 
-### 🔧 Core Competencies
+### 🧠 Technical Skills
 
-| Category              | Tools & Techniques                                   |
-|-----------------------|------------------------------------------------------|
-| Programming           | Python, R, SQL, Bash                                 |
-| Statistical Modeling  | Time Series (ARIMA, Prophet), Regression, Forecasting |
-| Gen AI & Simulation   | OpenAI API, LangChain, Synthetic Data Design         |
-| Market & Choice Models| Conjoint Analysis, DCE, Bayesian Inference           |
-| Visualization         | Plotly, Seaborn, Streamlit, Power BI                 |
-| Infrastructure        | GitHub Actions, Docker, Linux, VS Code               |
+| Category              | Tools / Technologies |
+|-----------------------|----------------------|
+| 🧑‍💻 Programming       | Python, R, SQL, HTML, CSS |
+| 📊 Visualization       | Tableau, Power BI, Excel |
+| 🧮 Statistics & ML     | Regression, Time Series, Hypothesis Testing |
+| 🧠 ML Libraries        | scikit-learn, Pandas, NumPy, NLTK |
+| 🌐 Web Frameworks      | Flask (for deployed analytics tools) |
+| 📑 Reporting Tools     | Microsoft Office, Canva |
+| 🗣️ Languages           | English, Hindi, Nepali (Fluent) |
 
 ---
 
-### 🧠 Thought Leadership Projects
+### 💼 Projects
 
-#### 🎯 **Generative Competitor Landscape Simulator**
-> A modular system to simulate competitive environments using Generative AI + Conjoint Analysis.
+#### 📊 IntelliText - Text Classification Dashboard  
+> Built a multi-class classifier for analyzing text (Hate Speech / Offensive / Neutral) using Python  
+- Preprocessing with **NLTK**, classification via **Logistic Regression + TF-IDF**  
+- Web interface with **Flask** for real-time or file-based input  
+- Deployed using **Render** for live access  
+🔗 [Try it Live](https://hate-speech-detector2.onrender.com/)
 
-- 🔍 **Consumer Preference Modeling** powered by Bayesian design
-- 🤖 **Auto-generates market scenarios** with NLP-driven feature synthesis
-- 🧬 **Modular architecture** for rapid simulation of dynamic competitors
-- 📈 Use Cases: GTM strategy, pricing simulations, market shaping
+---
+
+#### 📉 Customer Churn Predictor  
+- Used Python + Pandas + Random Forest  
+- Achieved **85% prediction accuracy**  
+- Visualizations for trend insight  
+- Summarized findings for business impact
+
+---
+
+#### 🎮 King Tic-Tac-Toe  
+- Created a browser-based game using HTML, CSS, JS  
+- Demonstrated logic, animation, and state handling  
+🔗 [Play Now](https://tic-tac-t.onrender.com/)
+
+---
+
+### 🏆 Certifications
+
+| Program                                     | Provider            | Date     |
+|--------------------------------------------|---------------------|----------|
+| Developing AI Tools with Python & Flask    | IntelliText         | 2024     |
+| Data Science Job Simulation                | BCG (Forage)        | Apr 2024 |
+| Data Analytics Job Simulation              | Accenture (Forage)  | May 2024 |
+| Career Essentials in Data Analysis         | Microsoft/LinkedIn  | Jun 2024 |
+
+📂 [View All Certificates](https://drive.google.com/drive/folders/1d8J0vDlub7FHhYdeihpZiqYTQa7HO8YZ?usp=sharing)
+
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github.com/SantoshPant/GenerativeSimulator/blob/main/assets/architecture.png" width="600" alt="Simulator Architecture"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SantoshPant&show_icons=true&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantoshPant&layout=compact&theme=radical&hide_border=true" height="180"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/santosh-pant-60077a2b9/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Spant9999@gmail.com)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SantoshPant&show_icons=true&theme=gruvbox&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantoshPant&layout=compact&theme=gruvbox&hide_border=true" height="180"/>
-</p>
-
----
-
-### 🧭 Guiding Principles
-- **Insight > Data**: Raw data means little without context and application.
-- **Design for Change**: Models should simulate dynamic, adaptive systems.
-- **Automate Intelligently**: Don't just predict—prescribe and simulate.
-- **Narrative Matters**: Present analysis with clarity, not clutter.
-
----
-
-### 🤝 Let's Collaborate
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
-[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Website](https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=github)](https://github.com/SantoshPant)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SantoshPant&label=Profile+Views&color=00C9A7&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=SantoshPant&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
