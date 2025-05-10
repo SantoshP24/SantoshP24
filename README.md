@@ -102,7 +102,7 @@ Below is a creative animation, showing the power of data visualization and AI. H
 
 ---
 
-### 🎨 AI-Themed Visual Design (Optional)
+### 🎨 AI-Themed Visual Design
 
 You can also include an AI-themed banner to visually represent your passion for AI. Here's an example:
 
