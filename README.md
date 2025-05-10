@@ -2,7 +2,7 @@
 <h3 align="center">Data Scientist | Advanced Analytics Enthusiast | AI Simulator Architect</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FFAB&center=true&vCenter=true&width=440&lines=Designing+AI-driven+Simulators;Mastering+Time+Series+Analytics;Breeding+Cultivation+Characters+in+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FFAB&center=true&vCenter=true&width=440&lines=Designing+AI-driven+Simulators;Mastering+Time+Series+Analytics" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,7 +10,6 @@
 ### 🔬 About Me
 - 🎓 Advanced Analytics enthusiast with a strong grasp on **Time Series**, **Machine Learning**, and **Data Visualization**
 - 🧠 Currently working on: **Generative Competitor Landscape Simulator**
-- 🐍 Passion project: Creating a **dark, internal-cultivation-based character** from Western Xia—Cheon Sanmu
 - 🧪 Bridging the gap between **traditional analytics** and **generative AI**
 
 ---
@@ -44,13 +43,6 @@
 - 🧩 Modules: Data Generation, Market Scenario Simulator, NLP-enhanced Product Generator
 - 🔍 Use cases: Product strategy, market analysis, customer preference modeling
 - 🧠 Powered by OpenAI + Probabilistic Models
-
----
-
-### 🧙‍♂️ Creative Side
-
-- 🐉 **Cheon Sanmu**, my cultivation character, blends narrative depth with computational simulation
-- 💭 Designed to explore **dark internal power systems**, family lineage dynamics, and skill progression trees using code
 
 ---
 
