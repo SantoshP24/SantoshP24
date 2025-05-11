@@ -8,11 +8,11 @@
 </p>
 
 ---
-### 🦖 Tech Dino On the Move
-
+<!-- Tech Dino Animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/dino.gif" alt="Tech Dino" width="500"/>
 </p>
+---
 
 ### 🔍 About Me
 
