@@ -8,11 +8,11 @@
 </p>
 
 ---
-<!-- Tech Dino Animation -->
+<!-- Cyberpunk Tech Dino Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/dino.gif" alt="Tech Dino" width="500"/>
+  <img src="https://media.giphy.com/media/8tH5Rre64jX6w8rVpl/giphy.gif" alt="Cyberpunk Tech Dino" width="600"/>
 </p>
----
+
 
 ### 🔍 About Me
 
