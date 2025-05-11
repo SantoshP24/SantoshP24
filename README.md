@@ -8,11 +8,6 @@
 </p>
 
 ---
-<!-- Cyberpunk Tech Dino Animation -->
-<p align="center">
-  <img src="https://media.giphy.com/media/8tH5Rre64jX6w8rVpl/giphy.gif" alt="Cyberpunk Tech Dino" width="600"/>
-</p>
-
 
 ### 🔍 About Me
 
@@ -82,16 +77,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SantoshP24&show_icons=true&theme=radical&hide_border=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantoshP24&layout=compact&theme=radical&hide_border=true" height="180"/>
-</p>
-
----
-
-### 🚀 Animated Data Visualization
-
-Below is a creative animation, showing the power of data visualization and AI. Here’s how data can be transformed into insights and used to make decisions:
-
-<p align="center">
-  <img src="https://media.giphy.com/media/8tH5Rre64jX6w8rVpl/giphy.gif" alt="Data Analysis Animation"/>
 </p>
 
 ---
