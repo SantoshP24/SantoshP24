@@ -1,95 +1,100 @@
 <!-- GitHub Profile README - Santosh Pant -->
 
-<h1 align="center">👋 Hi, I'm Santosh Pant</h1>
-<h3 align="center">📊 Data Analyst | B.Sc. in Data Science | AI Enthusiast</h3>
+<!-- Load Custom Fonts -->
+<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600&family=Inter&display=swap" rel="stylesheet">
 
-<!-- Typing SVG -->
+<!-- Hero Section -->
+<div align="center" style="font-family: 'Orbitron', sans-serif; padding: 20px; border-radius: 20px; background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); color: #00FFAB;">
+
+  <h1 style="font-size: 3em; margin-bottom: 0;">🚀 Santosh Pant</h1>
+  <p style="font-family: 'Inter', sans-serif; font-size: 1.2em; margin-top: 5px;">
+    Data Analyst | AI Builder | Data Science Graduate
+  </p>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FFAB&center=true&vCenter=true&width=750&lines=Data+Into+Decisions;Dashboards+%26+ML+Deployments;Analytics+With+Real+Impact" alt="Typing SVG" />
+</div>
+
+---
+
+<!-- Section: About -->
+<div style="background:#111; padding: 30px; border-radius: 16px; margin-top:20px;">
+  <h2 style="font-family: 'Orbitron'; color: #00FFE1;">🔍 About Me</h2>
+  <p style="font-family: 'Inter'; color:#d4d4d4;">
+    🎓 Graduate in B.Sc. Data Science & Analytics from Jain University<br>
+    📊 End-to-end experience with cleaning, modeling & visualizing data<br>
+    🧠 Focused on deploying intelligent ML solutions and dashboards<br>
+    🚀 Passionate about AI applications in real-world problems
+  </p>
+</div>
+
+---
+
+<!-- Section: Skills -->
+<div style="margin-top: 30px; padding: 20px; border: 1px solid #333; border-radius: 16px;">
+  <h2 style="font-family: 'Orbitron'; color:#00FFE1;">🧠 Skillset</h2>
+  <ul style="font-family: 'Inter'; color: #ccc;">
+    <li><b>Languages:</b> Python, R, SQL, HTML/CSS</li>
+    <li><b>Visualization:</b> Tableau, Power BI, Excel</li>
+    <li><b>ML Libraries:</b> scikit-learn, Pandas, NumPy, NLTK</li>
+    <li><b>Deployment:</b> Flask, Render, GitHub Pages</li>
+    <li><b>Soft Skills:</b> Insight Presentation, Strategic Thinking</li>
+  </ul>
+</div>
+
+---
+
+<!-- Section: Featured Projects -->
+<h2 style="font-family: 'Orbitron'; color: #00FFE1;">💼 Featured Projects</h2>
+
+<div style="display:flex; gap:20px; flex-wrap: wrap; justify-content: center;">
+
+  <div style="background:#202020; padding: 20px; width:300px; border-radius:12px; border:1px solid #444;">
+    <h3 style="color:#00FFAB;">IntelliText</h3>
+    <p style="color:#ccc;">Real-time text classification Flask app<br>
+    🚀 [<a href="https://hate-speech-detector2.onrender.com/" style="color:#00FFAB;">Live Demo</a>]</p>
+  </div>
+
+  <div style="background:#202020; padding: 20px; width:300px; border-radius:12px; border:1px solid #444;">
+    <h3 style="color:#00FFAB;">Customer Churn Predictor</h3>
+    <p style="color:#ccc;">Random Forest model with dashboard<br>
+    Accuracy: 85%</p>
+  </div>
+
+  <div style="background:#202020; padding: 20px; width:300px; border-radius:12px; border:1px solid #444;">
+    <h3 style="color:#00FFAB;">King Tic-Tac-Toe</h3>
+    <p style="color:#ccc;">Interactive browser-based logic game<br>
+    🎮 [<a href="https://tic-tac-t.onrender.com/" style="color:#00FFAB;">Play Now</a>]</p>
+  </div>
+
+</div>
+
+---
+
+<!-- Section: Certifications -->
+<h2 style="font-family: 'Orbitron'; color: #00FFE1;">🏆 Certifications</h2>
+
+<ul style="font-family: 'Inter'; color:#ccc;">
+  <li>AI Tools with Flask - IntelliText (2024)</li>
+  <li>Data Science Job Simulation - BCG (2024)</li>
+  <li>Data Analytics Simulation - Accenture (2024)</li>
+  <li>Career Essentials - Microsoft/LinkedIn (2024)</li>
+</ul>
+📂 <a href="https://drive.google.com/drive/folders/1d8J0vDlub7FHhYdeihpZiqYTQa7HO8YZ?usp=sharing" style="color:#00FFAB;">View All Certificates</a>
+
+---
+
+<!-- Section: GitHub Stats -->
+<h2 style="font-family: 'Orbitron'; color: #00FFE1;">📊 GitHub Analytics</h2>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FFAB&center=true&vCenter=true&width=750&lines=Turning+Data+into+Decisions;Building+Dashboards+%26+Forecasting+Models;Passionate+about+Analytics+%26+ML+Deployment" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SantoshP24&show_icons=true&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantoshP24&layout=compact&theme=radical&hide_border=true" height="180"/>
 </p>
 
-<!-- Tech Dino animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/dino.gif" width="200" />
-</p>
-
 ---
 
-### 🔍 About Me
-
-🎓 B.Sc. in Data Science & Analytics — **Jain University**  
-💡 Data-driven thinker with end-to-end project experience  
-📈 Proficient in **dashboard design**, **statistical analysis**, and **ML modeling**  
-🧠 Obsessed with turning raw data into real-world impact  
-
----
-
-### 🧠 Skills Snapshot
-
-| Category             | Tools / Tech |
-|----------------------|--------------|
-| 👨‍💻 Programming        | Python, R, SQL, HTML, CSS |
-| 📊 Visualization       | Tableau, Power BI, Excel |
-| 📚 Stats & ML         | Time Series, Regression, Hypothesis Testing |
-| 🔍 ML Libraries        | scikit-learn, Pandas, NumPy, NLTK |
-| 🌍 Web Analytics      | Flask, Render |
-| 📄 Docs & Design     | MS Office, Canva |
-| 🌐 Languages         | English, Hindi, Nepali |
-
----
-
-### 💼 Featured Projects
-
-#### 🔍 IntelliText - Hate Speech Classifier
-> ML Web App (Flask) to classify offensive/neutral text using NLP  
-✅ TF-IDF + Logistic Regression  
-🚀 Deployed on Render  
-🔗 [Try it Live](https://hate-speech-detector2.onrender.com/)
-
----
-
-#### 📉 Churn Predictor (85% Accuracy)
-- Random Forest + Pandas + EDA
-- Created dashboard with business insight
-- Featured in case study presentation
-
----
-
-#### 🎮 King Tic-Tac-Toe Game
-- JS + CSS logic with transition animations  
-🔗 [Play Now](https://tic-tac-t.onrender.com/)
-
----
-
-### 🏆 Certifications
-
-| Program                                   | Provider             | Year     |
-|------------------------------------------|----------------------|----------|
-| AI Tools with Flask                      | IntelliText          | 2024     |
-| Data Science Simulation                  | BCG (Forage)         | 2024     |
-| Analytics Simulation                     | Accenture (Forage)   | 2024     |
-| Career Essentials: Data Analysis         | Microsoft/LinkedIn   | 2024     |
-
-📂 [View All Certificates](https://drive.google.com/drive/folders/1d8J0vDlub7FHhYdeihpZiqYTQa7HO8YZ?usp=sharing)
-
----
-
-### 📈 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SantoshP24&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantoshP24&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<!-- Sparkline-style contribution chart -->
-<p align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=SantoshP24" alt="Contribution graph" />
-</p>
-
----
-
-### 🌐 Connect With Me
-
+<!-- Section: Connect -->
+<h2 style="font-family: 'Orbitron'; color: #00FFE1;">🔗 Connect with Me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/santosh-pant-60077a2b9/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
@@ -99,14 +104,6 @@
   </a>
 </p>
 
-<!-- Dog that follows cursor (via Giphy preview trick for README) -->
-<p align="center">
-  <img src="https://media.giphy.com/media/Lq0h93752f6J9tijrh/giphy.gif" width="150" alt="Dog following cursor GIF" />
-</p>
-
-<!-- Profile View Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SantoshPant&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
-
----
