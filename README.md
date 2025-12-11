@@ -6,8 +6,8 @@
 ---
 
 # 🚀 **Who Am I?**
+I am **Santosh Pant** 
 🎓 Currently pursuing **Integrated M.Sc → M.Tech in Computer Science** at **South Asian University (SAU), New Delhi**  
-I am **Santosh Pant**, a Data Analyst who treats data like a *superpower*.  
 
 🔮 B.Sc. in **Data Science & Analytics** — Jain University  
 
