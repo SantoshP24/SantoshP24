@@ -10,7 +10,10 @@
 I am **Santosh Pant**, a Data Analyst who treats data like a *superpower*.  
 
 🔮 B.Sc. in **Data Science & Analytics** — Jain University  
-⚡ Passion: ML Models • Dashboards • Forecasting • AI Tools  
+
+Passion: ML Models • Dashboards • Forecasting • AI Tools  
+
+
 ---
 # ⭐ **Flagship Projects**
 
