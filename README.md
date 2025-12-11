@@ -1,10 +1,3 @@
-# 🌌 **SANTOSH PANT**
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=Transforming+Raw+Data+into+Intelligent+Decisions;Crafting+Models+that+Predict+the+Future;Designing+Systems+that+Actually+Solve+Problems;Data+Analyst+%7C+Creator+%7C" />
-</p>
-
----
-
 # 🚀 **Who Am I?**
 I am **Santosh Pant** 
 🎓 Currently pursuing **Integrated M.Sc → M.Tech in Computer Science** at **South Asian University (SAU), New Delhi**  
