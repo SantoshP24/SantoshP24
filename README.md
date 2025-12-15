@@ -1,4 +1,3 @@
-# 🚀 **Who Am I?**
 I am **Santosh Pant** 
 🎓 Currently pursuing **Integrated M.Sc → M.Tech in Computer Science** at **South Asian University (SAU), New Delhi**  
 
@@ -8,12 +7,12 @@ Passion: ML Models • Dashboards • Forecasting • AI Tools
 
 
 ---
-# ⭐ **Flagship Projects**
+# **Projects**
 
-## 🔥 **IntelliText — Hate Speech Classification Dashboard**
+## **IntelliText — Hate Speech Classification Dashboard**
 A real-time text intelligence system that classifies **Hate / Offensive / Neutral** using TF-IDF + Logistic Regression.  
-🧩 **Features**: Real-time predictions, file input, hosted dashboard  
-🌍 **Live Demo:** https://hate-speech-detector2.onrender.com/
+**Features**: Real-time predictions, file input, hosted dashboard  
+**Live Demo:** https://hate-speech-detector2.onrender.com/
 
 ---
 
