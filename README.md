@@ -3,8 +3,6 @@ I am **Santosh Pant**
 
 🔮 B.Sc. in **Data Science & Analytics** — Jain University  
 
-Passion: ML Models • Dashboards • Forecasting • AI Tools  
-
 
 ---
 # **Projects**
