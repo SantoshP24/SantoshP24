@@ -14,8 +14,7 @@ A real-time text intelligence system that classifies **Hate / Offensive / Neutra
 
 ---
 
-## 🎮 **King Tic-Tac-Toe (Web Game)**
-A polished JavaScript-based browser game with animations and smart winning logic.  
+## 🎮 **King Tic-Tac-Toe**  
 ▶️ Play: https://tic-tac-t.onrender.com/
 
 
